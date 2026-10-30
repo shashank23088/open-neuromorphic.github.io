@@ -12,7 +12,7 @@ field_of_application: Machine Learning
 source_code: 'https://github.com/Capsize-Games/spikeforge'
 pypi_id: spikeforge
 license: BSD-3-Clause
-supports_hardware: null
+supports_hardware: false
 supports_NIR: true
 language: Python
 maintainer: Capsize LLC
