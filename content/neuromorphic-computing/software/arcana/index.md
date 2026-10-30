@@ -10,8 +10,8 @@ dependencies: PyTorch
 field_of_application: 'Machine Learning, Neuromorphic Hardware'
 source_code: 'https://github.com/ferqui/ARCANA'
 license: GPL-3.0
-supports_hardware: null
-supports_NIR: null
+supports_hardware: false
+supports_NIR: false
 language: Python
 maintainer: Fernando M. Quintana
 draft: true
