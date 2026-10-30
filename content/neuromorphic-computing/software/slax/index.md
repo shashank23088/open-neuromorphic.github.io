@@ -12,7 +12,7 @@ field_of_application: Machine Learning
 source_code: 'https://github.com/Intelligent-Microsystems-Lab/slax'
 pypi_id: slax
 license: Apache-2.0
-supports_hardware: null
+supports_hardware: false
 supports_NIR: true
 language: Python
 maintainer: Thomas Summe
