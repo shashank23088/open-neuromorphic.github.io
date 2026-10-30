@@ -9,9 +9,9 @@ website: 'https://github.com/TENNLab-UTK/fpga'
 dependencies: 'TENNLab Neuromorphic Framework, Edalize'
 field_of_application: Neuromorphic Hardware
 source_code: 'https://github.com/TENNLab-UTK/fpga'
-license: 'MPL-2.0 (software), CERN-OHL-W-2.0 (HDL)'
+license: MPL-2.0
 supports_hardware: true
-supports_NIR: null
+supports_NIR: false
 language: 'Python, SystemVerilog, Verilog'
 maintainer:
   - Keegan Dent
